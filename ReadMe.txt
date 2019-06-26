@@ -14,7 +14,7 @@ this is aio packages installer , through this you can install almost all package
 
 USAGE :~
 
-1.  apt-get install git
+1. apt-get install git
 2. git clone https://github.com/CYBERSECARYAN/C-LINUX
 3. cd C-LINUX
 4. bash C-Linux.sh
