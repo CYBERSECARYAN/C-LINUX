@@ -1,5 +1,4 @@
-#AIO [ ALL IN ONE PACKAGES INSTALLER WITH [ METASPLOIT ] FOR [ CERBERUS LINUX ] IN ( WINDOWS-10 ) ]
-
+AIO [ ALL IN ONE PACKAGES INSTALLER WITH [ METASPLOIT ] FOR [ CERBERUS LINUX ] IN ( WINDOWS-10 ) ]
 
 
 =========[ WINDOWS SUBSYSTEM LINUX ]===========
@@ -23,8 +22,7 @@ USAGE :~
 ======================================================
 
 
-# CYBER-SEC ==>  https://www.youtube.com/channel/UCrmhzytKiy3ddJCPfpGebqg
+CYBER-SEC ==>  https://www.youtube.com/channel/UCrmhzytKiy3ddJCPfpGebqg
 
-
-# SUPPORT US
+SUPPORT US
 =============
