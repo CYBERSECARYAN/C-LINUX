@@ -113,6 +113,8 @@ apt-get install dex2jar -y
 echo " "
 apt-get install backdoor-factory -y
 echo " "
+go get github.com/kbinani/screenshot && go get github.com/lxn/win
+echo " "
 apt-get install dnsutils -y
 echo " "
 git clone https://github.com/offensive-security/exploit-database.git
