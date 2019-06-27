@@ -91,6 +91,8 @@ apt-get install apache2 -y
 echo " "
 apt-get install postgresql -y
 echo " "
+sudo apt install golang git go-dep -y
+echo " "
 apt-get install unzip -y
 echo " "
 apt-get install zip -y
