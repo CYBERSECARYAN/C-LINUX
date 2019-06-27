@@ -61,6 +61,8 @@ apt-get install less -y
 echo " "
 apt-get install nmap -y
 echo " "
+apt install golang xterm git upx-ucl -y
+echo " "
 apt-get install hydra -y
 echo " "
 apt-get install gnome-terminal -y
