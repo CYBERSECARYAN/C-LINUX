@@ -93,6 +93,8 @@ apt-get install unzip -y
 echo " "
 apt-get install zip -y
 echo " "
+apt-get install zenity -y
+echo " "
 apt-get install xterm -y
 echo " "
 apt-get install monodevelop -y 
