@@ -73,6 +73,8 @@ apt-get install mingw-w64 -y
 echo " "
 apt-get install python2 -y
 echo " "
+cpan install JSON -y
+echo " "
 apt-get install php -y
 echo " "
 apt-get install python3 -y
